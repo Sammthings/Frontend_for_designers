@@ -1,3 +1,5 @@
+// Bron: https://codepen.io/retrofuturistic/pen/tlbHE
+
 var dragSrcEl = null;
 
 function handleDragStart(e) {
