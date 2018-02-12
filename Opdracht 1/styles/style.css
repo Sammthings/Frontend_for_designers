@@ -1,0 +1,54 @@
+body{
+	background-color: grey;
+}
+
+main{
+	background-color: darkgreen;
+	border-radius: 1em;
+}
+h1{
+	font-size: 2em;
+	font-family: "open sans";
+	background-color: lightgreen;
+	padding: 1em;
+	text-align: center;
+	color:darkgreen;
+	margin-bottom: 0;
+}
+
+[draggable] {
+ 	-moz-user-select: none;
+ 	-khtml-user-select: none;
+ 	-webkit-user-select: none;
+ 	user-select: none;
+ 	/* Required to make elements draggable in old WebKit */
+ 	-khtml-user-drag: element;
+ 	-webkit-user-drag: element;
+}
+
+#columns {
+ 	list-style-type: none;
+ 	background-color: darkgreen;
+	padding: 1em;
+	border-radius: 1em;
+}
+
+.column {
+	background-color: lightgreen;
+	padding:1em;
+	font-family: "open sans";
+	font-size: 1em;
+	margin:2em;
+	list-style-type: none;
+	border-radius: 1em;
+	cursor: move;
+}
+.column.dragElem {
+ 	opacity: 0.4;
+}
+.column.over {
+ 	//border: 1em dashed #000;
+ 	border-top: 1em solid blue;
+}
+
+
