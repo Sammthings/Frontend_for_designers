@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Carousel</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<main class="carousel">
+
+		<section class="mijnFotos">
+		  <span class="nummers">1 / 4</span>
+		  <img src="image/foto1.jpg">
+		  <p class="text">Een kasteel op de berg bij het stadje Lindo op het griekse eiland Rhodos.</p>
+		</section>
+
+		<section class="mijnFotos">
+		  <span class="nummers">2 / 4</span>
+		  <img src="image/foto2.jpg">
+		  <p class="text">Uitzicht van af een kasteel in het zuide van het griekse eiland Rhodos.</p>
+		</section>
+
+		<section class="mijnFotos">
+		  <span class="nummers">3 / 4</span>
+		  <img src="image/foto3.jpg">
+		  <p class="text">Fundering van een achter gelaten stadje op het griekse eiland Rhodos.</p>
+		</section>
+
+		<section class="mijnFotos">
+		  <span class="nummers">4 / 4</span>
+		  <img src="image/foto4.jpg">
+		  <p class="text">Stapel stenen bij een ruïne op het griekse eiland Rhodos.</p>
+		</section>
+
+		<a class="vorige" onclick="veranderFoto(-1)">&#10094;</a>
+		<a class="volgende" onclick="veranderFoto(1)">&#10095;</a>
+
+	</main>
+	<br>
+
+	<footer>
+	  <span class="punt" onclick="selectFoto(1)"></span> 
+	  <span class="punt" onclick="selectFoto(2)"></span> 
+	  <span class="punt" onclick="selectFoto(3)"></span> 
+	  <span class="punt" onclick="selectFoto(4)"></span> 
+	</footer>
+
+	<script src="js/carousel.js"></script>
+</body>
+
+</html>
