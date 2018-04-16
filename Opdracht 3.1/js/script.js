@@ -1,7 +1,7 @@
 var header = document.querySelector('header');
 var section = document.querySelector('section:nth-of-type(1)');
 var filmNumber = 1;
-var requestUrl = "https://github.com/Sammthings/Frontend_for_designers/blob/master/Opdracht%203.1/js/movies.json";
+var requestUrl = "/js/movies.json";
 var request = new XMLHttpRequest();
 request.open('GET', requestUrl);
 request.responseType = 'json';
