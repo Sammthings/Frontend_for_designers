@@ -1,0 +1,229 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+	background-color: rgb(48,48,48);
+	font-family: "opensans";
+}
+header{
+	background-color: rgb(24,24,24);
+	height: 4em;
+	margin:0;
+}
+
+header p{
+	color:white;
+	font-size: 2em;
+	float:left;
+	margin-right:1em;
+	margin-top:0.2em;
+	margin-left: 1em;
+}
+
+main{
+	
+}
+
+main section{
+	width: 80%;
+	margin:auto;
+	margin-top:2em;
+}
+
+main section article{
+	display:flex;
+	width:100%;
+	flex-wrap:wrap;
+	justify-content:flex-start;
+	margin-bottom:2em;
+	background-color: #202020;
+}
+
+main section article h2{
+	color:white;
+	width: 100%;
+	margin-top: 0;
+	border-bottom:2px solid #f44336;
+}
+
+main section article p{
+	width: 50%;
+	color:white;
+}
+
+main section article img{
+	height: auto;
+	width: 80%;
+	float: left;
+}
+
+main section article button{
+	width:20%;
+	float: left;
+	background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 2em,;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+article div:first-of-type {
+    width: 20%;
+}
+
+article div:last-of-type {
+    width: 80%;
+    padding: 0em 2em;
+}
+.dropDown{
+	position: relative;
+	transition: all .5s ease-in-out;
+	max-height: 0;
+	overflow: hidden;
+}
+.dropDown button:first-of-type {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width:2em;
+    height: 2em;
+	float: left;
+	background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 2em,;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+
+.dropDown button:last-of-type {
+    position: absolute;
+    top: 45%;
+    right: 0;
+    width:2em;
+    height: 2em;
+	float: left;
+	background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 2em,;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+}
+.dropDown.slide {
+    max-height: 12em;
+}
+#car_Evil_Dead{
+	margin-bottom: 2em;
+}
+#car_Evil_Dead div{
+	height:auto;
+	padding: 1em;
+}
+#car_Evil_Dead div>article>div>img{
+	width: 55%;
+}
+#car_Evil_Dead div>article>div>h2{
+	padding-left: 2em;
+	width: 50%;
+}
+#car_Evil_Dead div>article>div>p{
+	padding-left: 3em;
+}
+
+#car_The_Shawshank_Redemption{
+	margin-bottom: 2em;
+}
+#car_The_Shawshank_Redemption div{
+	height:auto;
+	padding: 1em;
+}
+#car_The_Shawshank_Redemption div>article>div>img{
+	width: 55%;
+}
+#car_The_Shawshank_Redemption div>article>div>h2{
+	padding-left: 2em;
+	width: 50%;
+}
+#car_The_Shawshank_Redemption div>article>div>p{
+	padding-left: 3em;
+}	
+
+#car_The_Godfather{
+	margin-bottom: 2em;
+}
+#car_The_Godfather div{
+	height:auto;
+	padding: 1em;
+}
+#car_The_Godfather div>article>div>img{
+	width: 55%;
+}
+#car_The_Godfather div>article>div>h2{
+	padding-left: 2em;
+	width: 50%;
+}
+#car_The_Godfather div>article>div>p{
+	padding-left: 3em;
+}
+
+#car_Pulp_Fiction{
+	margin-bottom: 2em;
+}
+#car_Pulp_Fiction div{
+	height:auto;
+	padding: 1em;
+}
+#car_Pulp_Fiction div>article>div>img{
+	width: 55%;
+}
+#car_Pulp_Fiction div>article>div>h2{
+	padding-left: 2em;
+	width: 50%;
+}
+#car_Pulp_Fiction div>article>div>p{
+	padding-left: 3em;
+}
+
+#car_The_Dark_Knight{
+	margin-bottom: 2em;
+}
+#car_The_Dark_Knight div{
+	height:auto;
+	padding: 1em;
+}
+#car_The_Dark_Knight div>article>div>img{
+	width: 55%;
+}
+#car_The_Dark_Knight div>article>div>h2{
+	padding-left: 2em;
+	width: 50%;
+}
+#car_The_Dark_Knight div>article>div>p{
+	padding-left: 3em;
+}
+
+#car_Fight_Club{
+	margin-bottom: 2em;
+}
+#car_Fight_Club div{
+	height:auto;
+	padding: 1em;
+}
+#car_Fight_Club div>article>div>img{
+	width: 55%;
+}
+#car_Fight_Club div>article>div>h2{
+	padding-left: 2em;
+	width: 50%;
+}
+#car_Fight_Club div>article>div>p{
+	padding-left: 3em;
+}
