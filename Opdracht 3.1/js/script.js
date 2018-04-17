@@ -2,7 +2,7 @@ var header = document.querySelector('header');
 var section = document.querySelector('section:nth-of-type(1)');
 var filmNumber = 1;
 
-var requestURL = 'http://dennistel.nl/movies';
+var requestURL = 'https://dennistel.nl/movies';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
