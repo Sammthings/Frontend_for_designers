@@ -1,9 +1,10 @@
 var header = document.querySelector('header');
 var section = document.querySelector('section:nth-of-type(1)');
 var filmNumber = 1;
-var requestUrl = "/js/movies.json";
+
+var requestURL = 'http://dennistel.nl/movies';
 var request = new XMLHttpRequest();
-request.open('GET', requestUrl);
+request.open('GET', requestURL);
 request.responseType = 'json';
 request.send();
 
