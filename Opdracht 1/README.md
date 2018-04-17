@@ -10,6 +10,8 @@ Daarnaast had je bepaalde libaries nodig om dit te laten werken op mobiel.
 
 Deze opdracht was erg lastig. Hier het resultaat:
 
-[ Versie 1 Drag & Drop ](https://sammthings.github.io/Frontend_for_designers/Opdracht%101)
+[ Versie 1 Drag & Drop ](https://sammthings.github.io/Frontend_for_designers/Opdracht%201/) - Dit was een test. Hier heb ik een stukje drag & drop code gevonden, alleen lukt het me niet om het schaduw gedeelte mooi te doen.
+
+[ Versie 2 Drag & Drop ](https://sammthings.github.io/Frontend_for_designers/Opdracht%101) - Hier ben ik zelf aan de slag gegaan en is het mij alleen gelukt om het te draggen, maar niet te droppen.
 
 Ik had voor deze opdracht geen tijd om te testen of om deze te laten zien aan klasgenoten, omdat hij nog niet af was.
