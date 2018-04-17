@@ -2,7 +2,7 @@ var header = document.querySelector('header');
 var section = document.querySelector('section:nth-of-type(1)');
 var filmNumber = 1;
 
-var requestURL = 'https://dennistel.nl/movies';
+var requestURL = 'https://tomwesterhof.github.io/Frontend-voor-Designers/Opdracht%203/v3/json/movies.json'; //ik mocht Tom Westerhof zijn link gebruiken voor de Jsonfile\\
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
