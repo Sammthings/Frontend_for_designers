@@ -5,8 +5,7 @@ Voor deze opdracht heb ik een carousel gemaakt met vakantie foto's. De gebruiker
 
 [ Versie 1 Carousel ](https://sammthings.github.io/Frontend_for_designers/Opdracht%202/) <br><br>
 
-Uiteindelijk heb de carousel werkend gekregen, alleen had ik geen tijd meer om een extra event er aan te hangen. Ik had graag gewild om met mijn pijltoesten door de foto's heen te kunnen navigeren. Daarnaast had ik ook geen genoeg tijd om mijn ontwerp te testen. 
-<br><br>
+Uiteindelijk heb de carousel werkend gekregen, alleen had ik geen tijd meer om een extra event er aan te hangen. Ik had graag gewild om met mijn pijltoesten door de foto's heen te kunnen navigeren. Daarnaast had ik ook geen genoeg tijd om mijn ontwerp te testen. <br><br>
 Principles of User Interface Design<br>
 6. One primary action per screen
 Doordat de pijl en bolletjes goed zichbaar zijn is er maar 1 actie: De volgende foto. De volgorde maakt niet veel uit, maar de volgende foto is de one action per screen.  
