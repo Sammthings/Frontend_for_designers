@@ -8,7 +8,7 @@ Voor deze opdracht heb ik een carousel gemaakt met vakantie foto's. De gebruiker
 Uiteindelijk heb de carousel werkend gekregen, alleen had ik geen tijd meer om een extra event er aan te hangen. Ik had graag gewild om met mijn pijltoesten door de foto's heen te kunnen navigeren. Daarnaast had ik ook geen genoeg tijd om mijn ontwerp te testen. <br><br>
 Principles of User Interface Design<br>
 6. One primary action per screen
-Doordat de pijl en bolletjes goed zichbaar zijn is er maar 1 actie: De volgende foto. De volgorde maakt niet veel uit, maar de volgende foto is de one action per screen.  
+Doordat de pijl en bolletjes goed zichbaar zijn is er maar 1 actie: De volgende foto. De volgorde maakt niet veel uit, maar de volgende foto is de one action per screen.
 <br><br>
 7. Keep secondary actions secondery
 In mijn ontwerp is er geen secondery actions. Je kan via de pijltje naar de volgende foto navigeren. Dit kan ook met de bolletjes onder de carousel.
