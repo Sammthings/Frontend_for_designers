@@ -3,7 +3,8 @@ Blok 3 | Frontend for designers | Opdracht 2
 
 Voor deze opdracht heb ik een carousel gemaakt met vakantie foto's. De gebruiker kan door middel van de pijltje door de fotoserie heen kan klikken. Deze opdracht mocht je op een device naar keuze maken en ik heb gekozen voor Desktop. Ook moest er een extra event toegevoegd worden om bijvoorbeeld met de pijltjes op je toetsenbord door de foto's heen te klikken. Daarnaast heb ik met 3 principes rekening gehouden met het ontwerp: One primary action per screen, Keep secondary actions secondery en Provide a natural next step. <br><br>
 
-[ Versie 1 Carousel ](https://sammthings.github.io/Frontend_for_designers/Opdracht%202/) <br><br>
+[ Versie 1 Carousel ](https://sammthings.github.io/Frontend_for_designers/Opdracht%202/) <br>
+Ik heb een carousel gemaakt waar je doorheen kan klikken met pijltjes. Ook zie je aan de onderkant van de carousel 4 bolletjes. Deze zijn gelinkd met de foto in de carousel. Aan beide kanten heb ik pijltjes toegevoegd en heb ik de aantal foto's ( 1/4) in de linker bovenhoek geplaatst. Ook heb ik een bij schrift toegevoegd over de foto in de carousel.
 
 Uiteindelijk heb de carousel werkend gekregen, alleen had ik geen tijd meer om een extra event er aan te hangen. Ik had graag gewild om met mijn pijltoesten door de foto's heen te kunnen navigeren. Daarnaast had ik ook geen genoeg tijd om mijn ontwerp te testen. <br><br>
 Principles of User Interface Design<br>
