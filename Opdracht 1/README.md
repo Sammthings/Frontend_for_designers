@@ -1,7 +1,7 @@
 Frontend_for_designers
 Blok 3 | Frontend for designers | Opdracht 1
 
-Voor deze opdracht heb ik een muzieklijstje gemaakt door middel van drag and drop. De gebruiker kan door middel van drag and drop de volgorde van het lijstje aanpassen. Deze opdracht mocht je op een device naar keuze en ik heb gelozen voor mobiel. Daarnaast heb ik met 2 principes rekening gehouden met het ontwerp: keep users in control & strong visual hierarchies work best.
+Voor deze opdracht heb ik een muzieklijstje gemaakt door middel van drag and drop. De gebruiker kan door middel van drag and drop de volgorde van het lijstje aanpassen. Deze opdracht mocht je op een device naar keuze maken en ik heb gekozen voor mobiel. Daarnaast heb ik met 2 principes rekening gehouden met het ontwerp: keep users in control & strong visual hierarchies work best.
 
 [ Versie 1 Drag & Drop ](https://sammthings.github.io/Frontend_for_designers/Opdracht%201/) <br>
 De eerste versie was een onderzoek. Ik wilde weten hoe een drag and drop werkt in een browser op mijn computer. Hierdoor zat ik dat je in HTML aangeeft of het element draggable is. Daarnaast was de code lastig te begrijpen.
